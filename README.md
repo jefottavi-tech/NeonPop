@@ -45,5 +45,5 @@ flutter run -d chrome
 Desktop controls: mouse to aim and click to shoot (right click swaps), or arrow
 keys (Shift for fine aim) + Space, S to swap, Esc to pause.
 
-Every push to `main` builds and deploys the web version to GitHub Pages
-(`.github/workflows/web.yml`).
+Every push to `main` builds and deploys the web version to the GoDaddy hosting
+(`.github/workflows/deploy-godaddy.yml`).
